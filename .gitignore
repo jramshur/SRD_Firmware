@@ -1,0 +1,39 @@
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+#############
+## PSoC Creator
+#############
+
+*.cywrk.*
+*.cyprj.*
+*.cycdx
+*.cyfit
+*.rpt
+*.uvopt
+*.uvproj
+*_timing.html
+*.cydsn/codegentemp
+*.cydsn/DP8051
+#*.cydsn/Generated_Source
+/Archive
+
+#############
+## Other
+#############
+
+*.zip
