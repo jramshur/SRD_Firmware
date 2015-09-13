@@ -2,7 +2,8 @@
 
 ## Description
 
-The simultaneous stimulation-and-recording device (SRD) is a wireless brain-computer interface system designed for use in awake rats. This repository contains firmware for the SRD's MCU. It uses the Cypress Semiconductor's PSoC 3 programmable system on a chip.
+The simultaneous stimulation-and-recording device (SRD) is a wireless brain-computer interface system designed for use in awake rats. This repository contains firmware for the SRD's MCU. It uses the Cypress Semiconductor's PSoC 3 programmable system on a chip. The firmware project was designed using Cypress's PSoC Creator 3.0.
+
 
 ![](https://raw.githubusercontent.com/wiki/jramshur/SRD_Firmware/images/firmware_readme.png)
 
@@ -10,13 +11,11 @@ The simultaneous stimulation-and-recording device (SRD) is a wireless brain-comp
 
 * [Home][home]
 * [Installation][install]
-* [Quick Start Guide][quickstart]
-* [Input-Output][io]
+* [Overview][overview]
 
-[home]: https://github.com/jramshur/SRD_GUI/wiki/Home
-[install]: https://github.com/jramshur/SRD_GUI/wiki/Install
-[quickstart]: https://github.com/jramshur/SRD_GUI/wiki/Quick-Start
-[io]: https://github.com/jramshur/SRD_GUI/wiki/Input-Output
+[home]: https://github.com/jramshur/SRD_Firmware/wiki/Home
+[install]: https://github.com/jramshur/SRD_Firmware/wiki/Install
+[overview]: https://github.com/jramshur/SRD_Firmware/wiki/Overview
 
 ## Contact Info
 
